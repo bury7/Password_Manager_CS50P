@@ -2,8 +2,10 @@
 
 This repository is my final project for the CS50P course.
 
+
 ## Overview of the Course
 The CS50 Python course introduced me to the world of Python programming, covering everything from Python syntax and data structures to advanced concepts like object-oriented programming and web development. Throughout the course, I learned to write and debug Python code, manipulate data structures, and build web applications.The final project was a culmination of my newfound skills, demonstrating my ability to apply Python creatively to solve real-world problems. This course equipped me with a strong foundation in Python and a deep appreciation for its versatility and applicability in various domains.
+
 
 ## Contents of the Repository
 
@@ -11,10 +13,10 @@ The CS50 Python course introduced me to the world of Python programming, coverin
 ## More about the project
 
 
-## How to use
-
-
 ## How to install
+
+
+## How to use
 
 
 ## Course URL
