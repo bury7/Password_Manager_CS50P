@@ -8,7 +8,13 @@ The CS50 Python course introduced me to the world of Python programming, coverin
 ## Contents of the Repository
 
 
-## About this project
+## More about the project
+
+
+## How to use
+
+
+## How to install
 
 
 ## Course URL
