@@ -1,0 +1,12 @@
+bcrypt==4.0.1
+cffi==1.15.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pycparser==2.21
+Pygments==2.15.1
+pyperclip==1.8.2
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+pysqlcipher3==1.2.0
+rich==13.4.2
