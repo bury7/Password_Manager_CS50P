@@ -1,5 +1,7 @@
 # Password Manager
 
+Video overview: <https://youtu.be/0ySJU_u5Eso>
+
 This repository is my final project for the CS50P course.
 
 
