@@ -14,9 +14,9 @@ The following files are included in this repository:
 
 - [project.py](project.py): The password management application is contained within this file.
 
-- [test_project.py](test_project.py) This file contains tests for functions using pytest
+- [test_project.py](test_project.py): This file contains tests for functions using pytest
 
-- [requirements.txt](requirements.txt) This file has all the requirements to run the program
+- [requirements.txt](requirements.txt): This file has all the requirements to run the program
 
 
 ## Libraries used in the project
