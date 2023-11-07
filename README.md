@@ -26,7 +26,9 @@ The following files are included in this repository:
 
 ## About project
   After launching the project, you will be greeted by a welcome menu that offers you the option to create a new account or log in to an already-created account.
-  \nLet's start with creating an account. After selecting this item, the program will ask the user to enter a username and password. After that, the username is converted to the name of the new database, and the password is hashed by using the “bcrypt” library for greater security. With this data, the program creates a new database for the user and encrypts the contents of the database with a password using the “pysqlcipher” library, making it impossible to know what is written in that database without knowing the password.
+  
+  Let's start with creating an account. After selecting this item, the program will ask the user to enter a username and password. After that, the username is converted to the name of the new database, and the password is hashed by using the “bcrypt” library for greater security. With this data, the program creates a new database for the user and encrypts the contents of the database with a password using the “pysqlcipher” library, making it impossible to know what is written in that database without knowing the password.
+  
   Now, if you select the login option, you will be asked for your username and password in order to open the previously created database and start using the program. If everything went successfully, the user is transferred to the main menu.
   There are five functions in the main menu, now more about each:
   The first function is to show information. After selecting it, the user will be asked for the name of the program for which he wants to get information, or the user can show all available information. If the information that the user wants to see is not there, the program will issue an error.
