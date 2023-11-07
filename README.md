@@ -16,6 +16,8 @@ The following files are included in this repository:
 
 - [test_project.py](test_project.py) This file contains tests for functions using pytest
 
+- [requirements.txt](requirements.txt) This file has all the requirements to run the program
+
 
 ## Libraries used in the project
 - [Rich](https://rich.readthedocs.io/en/stable/): to make a beautiful output of data from my program;
