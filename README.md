@@ -54,8 +54,8 @@ There are five functions in the main menu:
 
 Quitting the program is implemented by the command `.quit` or `.exit`. You can also use `ctrl+c` or `ctrl+d` in the program.
 
-### [test_project.py](test_project.py)
-In the test_project.py file, a tests of all program functions that are not used for displaying information on the screen is implemented.
+### Tests
+In the [test_project.py](test_project.py) file, a tests of all program functions that are not used for displaying information on the screen is implemented.
 
 ## Course URL
 
