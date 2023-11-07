@@ -60,6 +60,6 @@ Quitting the program is implemented by the command `.quit` or `.exit`. You can a
 To learn about CS50 Python course, go to the official course website on the edX platform: [CS50's Introduction to Databases with SQLCS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
 
 
-## Permission
+## License
 
 This repository is provided for educational and reference purposes under the MIT License.
