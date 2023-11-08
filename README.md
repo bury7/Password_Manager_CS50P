@@ -61,7 +61,7 @@ In the [test_project.py](test_project.py) file, a tests of all program functions
 
 ## Course URL
 
-To learn about CS50 Python course, go to the official course website on the edX platform: [CS50's Introduction to Databases with SQLCS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
+To learn about CS50 Python course, go to the official course website on the edX platform: [CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
 
 
 ## License
