@@ -2,7 +2,7 @@
 
 Video overview: <https://youtu.be/0ySJU_u5Eso>
 
-This repository is my final project for the CS50P course. In which I implement a password mannager that works in the command line interface. This password manager supports multiple users, has the ability to create a new account or log in to an existing account, after logging in you get the opportunity to add new passwords for storage, update passwords, delete them, there is also the ability to view all passwords, and the ability to copy the password to the clipboard
+This repository is my final project for the CS50P course. In which I implement a password mannager that works in the command line interface. This password manager supports multiple users, has the ability to create a new account or log in to an existing account, after logging in you get the opportunity to add new passwords for storage, update passwords, delete them, there is also the ability to view all passwords, and the ability to copy the password to the clipboard.
 
 
 ## Overview of the Course
