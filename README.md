@@ -23,7 +23,7 @@ The following files are included in this repository:
 - [Rich](https://rich.readthedocs.io/en/stable/): to make a beautiful output of data from my program;
 - [Pysqlcipher3](https://github.com/rigglemania/pysqlcipher3): to encrypt the database with passwords;
 - [Pyperclip](https://github.com/asweigart/pyperclip): to implement the copy to clipboard function;
-- [bcrypt](https://pypi.org/project/bcrypt/): to hash password value for more secure.
+- [Bcrypt](https://pypi.org/project/bcrypt/): to hash password value for more secure.
   
 
 ## Project Description
